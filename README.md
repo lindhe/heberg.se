@@ -1,3 +1,3 @@
 # heberg.se
 
-- [README.md](README.md)
+Tillfällig hemsida för Hebergs Samfällighetsförening.
