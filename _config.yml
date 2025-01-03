@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Hebergs Samfällighetsförening
 description: En tillfällig hemsida för Hebergs Samfällighetsförening i Vallda. En bättre sida kommer snart!
+show_downloads: true
