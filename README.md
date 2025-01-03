@@ -1,3 +1,5 @@
 # heberg.se
 
-Tillfällig hemsida för Hebergs Samfällighetsförening.
+En tillfällig hemsida för Hebergs Samfällighetsförening.
+
+- [README.md](README.md)
