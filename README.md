@@ -7,5 +7,4 @@ Men kom gärna tillbaks senare så kommer vi ha uppdaterat med mer innehåll!
 Hälsningar,
 Styrelsen
 
-- [README.md](README.md)
-- [README.pdf](README.pdf)
+- [README.pdf](README.pdf){:target="_blank"}
