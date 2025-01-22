@@ -6,5 +6,3 @@ Men kom gärna tillbaks senare så kommer vi ha uppdaterat med mer innehåll!
 
 Hälsningar,<br>
 Styrelsen
-
-- [README.pdf](README.pdf){:target="_blank"}
