@@ -16,8 +16,8 @@ Styrelsen
 Alla medlemmar hälsas välkomna till årsmötet.
 
 Datum: 20 mars 2025<br>
-Var: Bygdegårde<br>
-Tid:  19.0<br>
+Var: Bygdegården<br>
+Tid:  19:00<br>
 
 ### Handlingar
 
