@@ -28,3 +28,4 @@ Tid:  19:00<br>
 ## Filer
 
 - [Välkommen till Hebergsvägen.pdf](filer/välkommen-till-hebergsvägen.pdf)
+- [Föreningens stadgar](filer/stadgar-2012-03-26.pdf)
