@@ -1,6 +1,6 @@
 # Hebergs Samfällighetsförening
 
-Välkommen till oss på Hebergsvägen i Vallda!
+Välkommna till oss på Hebergsvägen i Vallda!
 Här på hemsidan kan ni läsa om sådant som är på gång under året.
 
 ## Kontakta oss
