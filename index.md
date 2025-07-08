@@ -27,7 +27,7 @@ För närvarande är årsavgiften 950 kr per andel för varje hushåll i föreni
 
 På Hebergsvägen har vi grannsamverkan för att förebygga brott!
 Det kostar inget att vara medlem i grannsamverkan hos oss och därför är alla hushåll automatiskt medlemmar.
-För dig som bor här så rekommenderar vi att vi du går med i vår grupp i appen "Grannsamverkan" (finns på Apple App Store och Google Play).
+För dig som bor här så rekommenderar vi att du går med i vår grupp i appen "Grannsamverkan": <https://samverkanmotbrott.se/app/>
 
 Skulle du av någon anledning önska gå ur grannsamverkan så ber vi att ni kontaktar styrelsen.
 
