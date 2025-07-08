@@ -12,11 +12,11 @@ Vill du ta del av gemenskapen på Facebook så har vi en grupp där alla som bor
 
 ## Gemensamma städdagar
 
-Två gånger om året brukar vi träffas för att ha gemensamma städdagar då vi gör fint i området och umgås tillsammans.
-Dessutom får man en bonus för varje gemensam städdag som man är med på!
+Två gånger om året brukar vi träffas för att göra fint i området och umgås tillsammans.
+Varje hushåll får dessutom en liten bonus för varje gemensam städdag som man är med på!
 
-På våren är det första söndagen i maj och på hösten är det första söndagen i oktober.
-Information om detta skickas ut via e-post i god tid i förväg!
+På våren är den gemensamma städdagen första söndagen i maj och på hösten är det första söndagen i oktober.
+Mer detaljer skickas ut via e-post när det närmar sig!
 
 ## Avgifter
 
