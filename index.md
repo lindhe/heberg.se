@@ -1,14 +1,41 @@
 # Hebergs Samfällighetsförening
 
-Välkommen till vår nya hemsida!
-Just nu bygger vi om här, så det finns inte så mycket att hitta här.
-Men kom gärna tillbaks senare så kommer vi ha uppdaterat med mer innehåll!
+Välkommen till oss på Hebergsvägen i Vallda!
+Här på hemsidan kan ni läsa om sådant som är på gång under året.
 
-Ni kan nå hela styrelsen på <a href="mailto:info@heberg.se">info@heberg.se</a>
+## Kontakta oss
 
-Hälsningar,<br>
-Styrelsen
+Det bästa sättet att kontakta oss är via e-post till <a href="mailto:info@heberg.se">info@heberg.se</a> – där når du hela styrelsen.
+Är du nyinflyttad så är det viktigt att du kontaktar oss så att vi kan lägga till dig i vår e-postlista!
 
+Vill du ta del av gemenskapen på Facebook så har vi en grupp där alla som bor på Hebergsvägen är välkomna: <https://www.facebook.com/groups/1252038451496822/>
+
+## Gemensamma städdagar
+
+Två gånger om året brukar vi träffas för att ha gemensamma städdagar då vi gör fint i området och umgås tillsammans.
+Dessutom får man en bonus för varje gemensam städdag som man är med på!
+
+På våren är det första söndagen i maj och på hösten är det första söndagen i oktober.
+Information om detta skickas ut via e-post i god tid i förväg!
+
+## Avgifter
+
+Föreningens medel används till underhåll av vårt område, inklusive vägar, lekplats, grönområden, m.m.
+För närvarande är årsavgiften 950 kr per andel för varje hushåll i föreningen.
+
+## Grannsamverkan
+
+På Hebergsvägen har vi grannsamverkan för att förebygga brott!
+Det kostar inget att vara medlem i grannsamverkan hos oss och därför är alla hushåll automatiskt medlemmar.
+För dig som bor här så rekommenderar vi att vi du går med i vår grupp i appen "Grannsamverkan" (finns på Apple App Store och Google Play).
+
+Skulle du av någon anledning önska gå ur grannsamverkan så ber vi att ni kontaktar styrelsen.
+
+## Filer
+
+- [Föreningens stadgar](filer/stadgar-2012-03-26.pdf)
+
+<!--
 ## Årsmöte 2025-03-20
 
 **Kallelse till årsmöte i Hebergs Samfällighetsförening!**
@@ -25,7 +52,4 @@ Tid:  19:00<br>
 - [Blankett för fullmakt](filer/fullmakt.pdf)
 - [Blankett för motioner](filer/motionsblankett.docx)
 
-## Filer
-
-- [Välkommen till Hebergsvägen.pdf](filer/välkommen-till-hebergsvägen.pdf)
-- [Föreningens stadgar](filer/stadgar-2012-03-26.pdf)
+-->
