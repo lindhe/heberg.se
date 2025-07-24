@@ -10,6 +10,16 @@ Det bästa sättet att kontakta oss är via e-post till <a href="mailto:info@heb
 
 Vill du ta del av gemenskapen på Facebook så har vi en grupp där alla som bor på Hebergsvägen är välkomna: <https://www.facebook.com/groups/1252038451496822/>
 
+I styrelsen sitter just nu:
+
+- Andreas Lindhé (nr 27)
+- Emma Lefler (nr 31)
+- Henning Christiansson (nr 100)
+- Ingemar Ståhle (nr 116)
+- Lars Gustafsson (nr 112)
+- Patric Isberg (nr 148)
+- Sten-Åke Karlsson (nr 74)
+
 ## Gemensamma städdagar
 
 Två gånger om året brukar vi träffas för att göra fint i området och umgås tillsammans.
