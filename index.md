@@ -44,21 +44,25 @@ Skulle du av någon anledning önska gå ur grannsamverkan så ber vi att ni kon
 
 - [Föreningens stadgar](filer/stadgar-2012-03-26.pdf)
 
-<!--
-## Årsmöte 2025-03-20
+## Föreningsstämma 2026-03-26
 
-**Kallelse till årsmöte i Hebergs Samfällighetsförening!**
+**Kallelse till föreningsstämma i Hebergs Samfällighetsförening!**
 
-Alla medlemmar hälsas välkomna till årsmötet.
+Alla medlemmar hälsas välkomna till stämman.
 
-Datum: 20 mars 2025<br>
+Datum: 26 mars 2026<br>
 Var: Bygdegården<br>
 Tid:  19:00<br>
 
 ### Handlingar
 
-- [Kallelse till årsmötet](filer/kallelse-årsmöte-2025-03-20.pdf)
+- [Kallelse till föreningsstämman](filer/kallelse-föreningsstämma-2026-03-26.pdf)
 - [Blankett för fullmakt](filer/fullmakt.pdf)
-- [Blankett för motioner](filer/motionsblankett.docx)
-
--->
+- [Blankett för motioner](filer/motionsblankett.pdf)
+- [Förslag på nya stadgar](filer/förslag-nya-stadgar.pdf)
+- [Samtliga ändringsförslag i stadgarna](filer/förslag-nya-stadgar-ändringar.pdf)
+- [Balansräkning 2025](filer/balansräkning-2025.pdf)
+- [Resultaträkning 2025](filer/resultaträkning-2025.pdf)
+- [Revisionsberättelse 2025](filer/revisionsberättelse-2025.pdf)
+- [Verksamhetsberättelse 2025](filer/verksamhetsberättelse-2025.pdf)
+- [Budgetförslag 2026](filer/budgetförslag-2026.pdf)
