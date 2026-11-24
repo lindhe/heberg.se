@@ -42,4 +42,4 @@ Skulle du av någon anledning önska gå ur grannsamverkan så ber vi att ni kon
 
 ## Filer
 
-- [Föreningens stadgar](filer/stadgar-2012-03-26.pdf)
+- [Föreningens stadgar](filer/stadgar-2026-10-04.pdf)
