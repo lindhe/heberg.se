@@ -1,6 +1,6 @@
 # Hebergs Samfällighetsförening
 
-Välkommna till oss på Hebergsvägen i Vallda!
+Välkomna till oss på Hebergsvägen i Vallda!
 Här på hemsidan kan ni läsa om sådant som är på gång under året.
 
 ## Kontakta oss
@@ -43,26 +43,3 @@ Skulle du av någon anledning önska gå ur grannsamverkan så ber vi att ni kon
 ## Filer
 
 - [Föreningens stadgar](filer/stadgar-2012-03-26.pdf)
-
-## Föreningsstämma 2026-03-26
-
-**Kallelse till föreningsstämma i Hebergs Samfällighetsförening!**
-
-Alla medlemmar hälsas välkomna till stämman.
-
-Datum: 26 mars 2026<br>
-Var: Bygdegården<br>
-Tid:  19:00<br>
-
-### Handlingar
-
-- [Kallelse till föreningsstämman](filer/kallelse-föreningsstämma-2026-03-26.pdf)
-- [Blankett för fullmakt](filer/fullmakt.pdf)
-- [Blankett för motioner](filer/motionsblankett.pdf)
-- [Förslag på nya stadgar](filer/förslag-nya-stadgar.pdf)
-- [Samtliga ändringsförslag i stadgarna](filer/förslag-nya-stadgar-ändringar.pdf)
-- [Balansräkning 2025](filer/balansräkning-2025.pdf)
-- [Resultaträkning 2025](filer/resultaträkning-2025.pdf)
-- [Revisionsberättelse 2025](filer/revisionsberättelse-2025.pdf)
-- [Verksamhetsberättelse 2025](filer/verksamhetsberättelse-2025.pdf)
-- [Budgetförslag 2026](filer/budgetförslag-2026.pdf)
